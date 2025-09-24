@@ -18,7 +18,7 @@ import {
 
 const items = [
   { title: "Dashboard", url: "/", icon: FaTachometerAlt },
-  { title: "Add Driver", url: "/add-driver", icon: FaCar },
+  { title: "Add Driver", url: "/add-driver/step-one", icon: FaCar },
   { title: "Add Route", url: "/add-route", icon: FaRoute },
 ];
 
