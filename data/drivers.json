@@ -5,15 +5,8 @@
         "phone": "01000000001",
         "status": "available",
         "averageRate": 4.6,
-        "typeOfCar": "Toyota Corolla"
-    },
-    {
-        "id": "d2",
-        "name": "alex Johnson",
-        "phone": "01000000002",
-        "status": "on-trip",
-        "averageRate": 4.8,
-        "typeOfCar": "Hyundai Elantra"
+        "typeOfCar": "Toyota Corollac ",
+        "city": "Cairo"
     },
     {
         "id": "d3",
@@ -21,7 +14,8 @@
         "phone": "01000000003",
         "status": "off-duty",
         "averageRate": 4.3,
-        "typeOfCar": "Kia Sportage"
+        "typeOfCar": "Kia Sportage",
+        "city": "Giza"
     },
     {
         "id": "d4",
@@ -29,6 +23,34 @@
         "phone": "01000000004",
         "status": "available",
         "averageRate": 4.9,
-        "typeOfCar": "Nissan Sunny"
+        "typeOfCar": "Nissan Sunny",
+        "city": "Aswan"
+    },
+    {
+        "id": "dcj01v4efe",
+        "name": "Nabil Mohamed",
+        "phone": "01009475828",
+        "typeOfCar": "crola",
+        "city": "cairo",
+        "status": "available",
+        "averageRate": 0
+    },
+    {
+        "id": "dt5iokci19",
+        "name": "nabil alex",
+        "phone": "01014725836",
+        "typeOfCar": "crola",
+        "city": "cairo",
+        "status": "available",
+        "averageRate": 0
+    },
+    {
+        "id": "dkellibxvt",
+        "name": "rrfd",
+        "phone": "01012345678",
+        "typeOfCar": "crola",
+        "city": "cairo",
+        "status": "available",
+        "averageRate": 0
     }
 ]
