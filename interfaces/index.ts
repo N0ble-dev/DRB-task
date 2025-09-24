@@ -5,10 +5,11 @@ export interface Driver {
   status: "available" | "on-trip" | "off-duty";
   averageRate: number;
   typeOfCar: string;
+  city: string;
 }
 export interface Route {
   id: string;
-  driverId: string;
+  driver: string;
   title: string;
   from: string;
   to: string;
