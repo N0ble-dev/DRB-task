@@ -2,7 +2,7 @@
 
 import { Route } from "@/interfaces/index";
 import { ColumnDef } from "@tanstack/react-table";
-import { MoreHorizontal, Eye, Edit, Trash2 } from "lucide-react";
+import { MoreHorizontal, Eye } from "lucide-react";
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -103,14 +103,6 @@ export const columns: ColumnDef<Route>[] = [
                 }
                 content={<RouteDetailsModal route={route} />}
               />
-              <DropdownMenuItem className="cursor-pointer text-accent-foreground">
-                <Edit className="mr-2 h-4 w-4 " />
-                Update
-              </DropdownMenuItem>
-              <DropdownMenuItem className="cursor-pointer text-destructive">
-                <Trash2 className="mr-2 h-4 w-4" />
-                Delete
-              </DropdownMenuItem>
             </DropdownMenuContent>
           </DropdownMenu>
         </div>

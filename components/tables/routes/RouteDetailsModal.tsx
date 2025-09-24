@@ -30,7 +30,14 @@ export const RouteDetailsModal = ({ route }: { route: Route }) => {
             {route.title}
           </p>
         </div>
-
+        <div className="bg-muted/20 p-3 sm:p-4 rounded-lg">
+          <label className="text-xs sm:text-sm font-medium text-muted-foreground block mb-1">
+            Driver
+          </label>
+          <p className="text-base sm:text-lg font-semibold text-foreground capitalize break-words">
+            {route.driver}
+          </p>
+        </div>
         <div className="bg-muted/20 p-3 sm:p-4 rounded-lg">
           <label className="text-xs sm:text-sm font-medium text-muted-foreground block mb-1">
             From
