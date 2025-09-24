@@ -1,0 +1,30 @@
+[
+    {
+        "id": "r1",
+        "driverId": "d1",
+        "title": "Morning Delivery",
+        "from": "Mansoura",
+        "to": "Cairo"
+    },
+    {
+        "id": "r2",
+        "driverId": "d2",
+        "title": "Airport Pickup",
+        "from": "Cairo Airport",
+        "to": "Nasr City"
+    },
+    {
+        "id": "r3",
+        "driverId": "d3",
+        "title": "Evening Return",
+        "from": "Alexandria",
+        "to": "Mansoura"
+    },
+    {
+        "id": "r4",
+        "driverId": "d4",
+        "title": "VIP Transfer",
+        "from": "Cairo",
+        "to": "Sharm El Sheikh"
+    }
+]

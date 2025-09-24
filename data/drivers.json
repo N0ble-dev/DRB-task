@@ -1,0 +1,34 @@
+[
+    {
+        "id": "d1",
+        "name": "Nabil Mohamed",
+        "phone": "01000000001",
+        "status": "available",
+        "averageRate": 4.6,
+        "typeOfCar": "Toyota Corolla"
+    },
+    {
+        "id": "d2",
+        "name": "alex Johnson",
+        "phone": "01000000002",
+        "status": "on-trip",
+        "averageRate": 4.8,
+        "typeOfCar": "Hyundai Elantra"
+    },
+    {
+        "id": "d3",
+        "name": "Lina Ahmed",
+        "phone": "01000000003",
+        "status": "off-duty",
+        "averageRate": 4.3,
+        "typeOfCar": "Kia Sportage"
+    },
+    {
+        "id": "d4",
+        "name": "Omar Salah",
+        "phone": "01000000004",
+        "status": "available",
+        "averageRate": 4.9,
+        "typeOfCar": "Nissan Sunny"
+    }
+]
